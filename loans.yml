@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Eazybank loans related local API"
+  contactDetails:
+    name: "Jolyne Cujoh - Developer"
+    email: "jolyne@eazybank.com"
+  onCallSupport:
+    - (666)555-1234
+    - (666)523-1345

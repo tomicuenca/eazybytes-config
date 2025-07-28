@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Eazybank loans related PROD API"
+  contactDetails:
+    name: "Josuke Higashikata - Product Owner"
+    email: "josuke@eazybank.com"
+  onCallSupport:
+    - (444)555-1234
+    - (444)523-1345

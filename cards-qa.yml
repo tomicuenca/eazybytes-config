@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Eazybank cards related QA API"
+  contactDetails:
+    name: "Joseph Joestar - QA Lead"
+    email: "joseph@eazybank.com"
+  onCallSupport:
+    - (222)555-1234
+    - (222)523-1345

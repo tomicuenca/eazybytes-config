@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Eazybank cards related local API"
+  contactDetails:
+    name: "Jotaro Kujo - Developer"
+    email: "jotaro@eazybank.com"
+  onCallSupport:
+    - (333)555-1234
+    - (333)523-1345
