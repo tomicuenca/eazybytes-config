@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to Eazybank cards related PROD API"
   contactDetails:
-    name: "Jonathan Joestar - Product Owner"
+    name: "Jonathan Joestar - Product Owner ORAA"
     email: "{cipher}9220ef2bf020cec388d57de2d6afc76cb53e562828cb5206903b8dea1e18d40e02f8381aece84350c5fa4311f5faad6d"
   onCallSupport:
     - (111)555-1234
