@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Eazybank accounts related PROD APIaaaaaaaaaaaaa"
+  message: "Welcome to Eazybank accounts related PROD API"
   contactDetails:
     name: "Juan Perez - Product Owner"
     email: "juan@eazybank.com"
